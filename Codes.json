@@ -1,6 +1,8 @@
 {
-  "GINGERBREAD": {
-    "Expire": 1766466000,
-    "StompEffect": 1
+  "MERRYCHRISTMAS": {
+    "Expire": 1766725200,
+    "StompEffect": 1,
+    "BloodEffect": 1,
+    "Streaks": 25
   }
 }
