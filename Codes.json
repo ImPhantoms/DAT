@@ -1,8 +1,7 @@
 {
-  "MERRYCHRISTMAS": {
-    "Expire": 1766725200,
+  "500PLAYERS": {
+    "Expire": 1767394800,
     "StompEffect": 1,
-    "BloodEffect": 1,
-    "Streaks": 25
+    "Streaks": 26
   }
 }
